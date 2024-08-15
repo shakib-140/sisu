@@ -1,0 +1,2 @@
+shakib 70 10
+abir 80 5
